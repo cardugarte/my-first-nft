@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Podcast",
+      "value": "Humans of Platzi"
+    },
+    {
+      "trait_type": "Episodio",
+      "value": "107"
+    },
+    {
+      "trait_type": "Plataforma",
+      "value": "Spotify"
+    }
+  ],
+  "description": "Este coleccionable digital representa mi participación en el podcast Humans of Platzi, episodio N° 107 donde charlando con @Isisconvelo cuento mi camino para desarrollarme profesionalmente como programador.",
+  "image": "ipfs://QmQG7rM8k7itM3QMzfbLwdh6MrhU6zSC1pU1ic9tAbbe4x",
+  "name": "Humans of Platzi N° 107"
+}
